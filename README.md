@@ -5,3 +5,5 @@ Esse projeto foi parte de um trabalho da minha faculdade, no qual eu tive que ca
 Os princípios de programação que foram utilizados nesse trabalho foram:
 - 1: Programação pura de python para criação da automação da fórmula em si
 - 2: Programação utilizando a biblioteca Tkinter que permite criar aplicativos sem a necessidade de uma tela de terminal mas sim uma janela de verdade, necessitando assim de um trabalho de Front-end
+
+OBS: LEMBRE-SE que python só aceita o caracter "." como vírgula então coloque os valores de forma correta antes de utilizar a calculadora
